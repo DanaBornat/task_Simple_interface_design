@@ -1,0 +1,21 @@
+.service {
+    display: inline-block;
+    width: 20%;
+    margin: 10px;
+    background-color: white;
+    text-align: center;
+}
+
+.services {
+    background-color: white;
+    text-align: center;
+}
+
+p {
+    color: rgb(104, 104, 104);
+}
+
+i {
+    color: rgb(207, 95, 15);
+    font-size: 24px;
+}
